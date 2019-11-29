@@ -1,7 +1,7 @@
 # Adversarial-DL
 
 ## Arxiv
-
+* [Adversarial learning](https://dl.acm.org/citation.cfm?id=1081950)
 * [On Evaluating Adversarial Robustness](https://arxiv.org/abs/1902.06705)
 * [Customizing an Adversarial Example Generator with Class-Conditional GANs](https://arxiv.org/abs/1806.10496)
 * [Generating Adversarial Examples with Adversarial Networks](https://arxiv.org/abs/1801.02610)
@@ -27,7 +27,11 @@
 * [Open DNN Box by Power Side-Channel Attack](https://arxiv.org/abs/1907.10406)
 * [Transferable Adversarial Attacks for Image and Video Object Detection](https://arxiv.org/abs/1811.12641)
 * [Exploring Connections Between Active Learning and Model Extraction](https://arxiv.org/abs/1811.02054)
-## USENIX
+* [A framework for the extraction of Deep Neural Networks by leveraging public data](https://arxiv.org/abs/1905.09165)
+* [Model Extraction and Active Learning]
+* [High-Fidelity Extraction of Neural Network Models]
+* [LASSIFIERS A GAINST A DVERSARIAL EXAMPLES]
 
+## USENIX
 * [TreeHuggr: Discovering Where Tree-based Classifiers are Vulnerable to Adversarial Attack](https://www.usenix.org/conference/scainet19/presentation/filar)
 * [Local Model Poisoning Attacks to Byzantine-Robust Federated Learning](https://arxiv.org/abs/1911.11815)
